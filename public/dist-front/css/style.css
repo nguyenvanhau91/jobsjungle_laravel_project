@@ -69,12 +69,12 @@ input {
     height: 200px !important;
 }
 
-.btn:first-child:hover,
+/* .btn:first-child:hover,
 :not(.btn-check)+.btn:hover {
     color: #eab239;
     background-color: #ffffff;
     border-color: #eab239;
-}
+} */
 
 .badge.bg-success {
     background: #11af33 !important;
@@ -2115,11 +2115,11 @@ select {
 }
 
 .user-panel .box2 {
-    background: #ffc3c8;
+    background: #dcffe2;
 }
 
 .user-panel .box3 {
-    background: #dcffe2;
+    background: #ffc3c8;
 }
 
 .user-panel input[type="submit"] {

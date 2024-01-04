@@ -33,12 +33,6 @@
                     </div>
                     <div class="col-md-4">
                         <div class="box2">
-
-                            <p>Pending Jobs</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="box3">
                             <h4>{{ $total_featured_jobs }}</h4>
                             <p>Featured Jobs</p>
                         </div>

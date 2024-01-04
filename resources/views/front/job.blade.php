@@ -209,7 +209,7 @@
                                         @php
                                         $dt = DateTime::createFromFormat('Y-m-d', $job_single->deadline);
                                         @endphp
-                                        {{ $dt->format('d F, Y') }}
+                                        {{ $dt->format('d F, Y'); }}
                                     </td>
                                 </tr>
                                 <tr>

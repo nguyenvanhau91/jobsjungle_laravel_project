@@ -277,7 +277,7 @@ a {
 }
 
 a:hover {
-    color: var(--bs-link-hover-color)
+    color: #20c997;
 }
 
 a:not([href]):not([class]),
@@ -3282,9 +3282,8 @@ textarea.form-control.is-invalid {
 
 .btn:first-child:hover,
 :not(.btn-check)+.btn:hover {
-    color: var(--bs-btn-hover-color);
-    background-color: var(--bs-btn-hover-bg);
-    border-color: var(--bs-btn-hover-border-color)
+    color: #fff;
+    background-color: #eb983f;
 }
 
 .btn:focus-visible {
